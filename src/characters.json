@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Ryu",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/4/46/Ryurender.png/revision/latest?cb=20170728171704"
+  },
+  {
+    "id": 2,
+    "name": "Ken",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/b/b4/Kenrender.png/revision/latest?cb=20170728171332"
+  },
+  {
+    "id": 3,
+    "name": "Akuma",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/2/2c/Akumarender.png/revision/latest?cb=20170728162459"
+  },
+  {
+    "id": 4,
+    "name": "Chun-Li",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/e/e3/Chunrender.png/revision/latest?cb=20170728163823"
+  },
+  {
+    "id": 5,
+    "name": "Sakura",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/6/64/DDDC76A4-34C2-4BFB-A40C-EA96962B9C9D.png/revision/latest?cb=20180113085206"
+  },
+  {
+    "id": 6,
+    "name": "M.Bison",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/1/17/Bisonrender.png/revision/latest?cb=20170728171523"
+  },
+  {
+    "id": 7,
+    "name": "Cammy",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/1/19/Cammyrender.png/revision/latest?cb=20170728163129"
+  },
+  {
+    "id": 8,
+    "name": "Sagat",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/6/69/Sagatclean.png/revision/latest?cb=20180812160244"
+  },
+  {
+    "id": 9,
+    "name": "Guile",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/a/a2/Guilerender.png/revision/latest?cb=20170728164132"
+  },
+  {
+    "id": 10,
+    "name": "Balrog",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/7/77/Balrogrender.png/revision/latest?cb=20170728162928"
+  },
+  {
+    "id": 11,
+    "name": "Vega",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/b/bf/Vegarender.png/revision/latest?cb=20170728171753"
+  },
+  {
+    "id": 12,
+    "name": "Zangief",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/8/88/Zangiefrender.png/revision/latest?cb=20170728171808"
+  },
+  {
+    "id": 13,
+    "name": "Juri",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/a/a5/Jurirender.png/revision/latest?cb=20170728171238"
+  },
+  {
+    "id": 14,
+    "name": "Ibuki",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/9/90/Ibukirender.png/revision/latest?cb=20170728164112"
+  },
+  {
+    "id": 15,
+    "name": "Urien",
+    "image":
+      "https://vignette.wikia.nocookie.net/streetfighter/images/0/0a/Urienrender.png/revision/latest?cb=20170728171735"
+  }
+  
+]
