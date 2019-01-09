@@ -51,17 +51,17 @@
   },
   {
     "id": 11,
-    "name": "Vega",
-    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/bf/Vegarender.png/revision/latest?cb=20170728171753"
+    "name": "Luigi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/LuigiNSMBW.png/220px-LuigiNSMBW.png"
   },
   {
     "id": 12,
-    "name": "Zangief",
-    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/8/88/Zangiefrender.png/revision/latest?cb=20170728171808"
+    "name": "Goomba",
+    "image": "https://vignette.wikia.nocookie.net/nintendo/images/d/d5/GoombaNSMB.png/revision/latest?cb=20110724131649&path-prefix=en"
   },
   {
     "id": 13,
-    "name": "Juri",
+    "name": "Koopa",
     "image": "https://vignette.wikia.nocookie.net/streetfighter/images/a/a5/Jurirender.png/revision/latest?cb=20170728171238"
   },
   {
