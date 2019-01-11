@@ -58,17 +58,15 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header sticky-top">
-          <h1>{this.state.message}</h1>
-          <h2>Score: {this.state.count}</h2>
-        </header>
         <div className="jumbotron jumbotron-fluid">
           <div className="container">
-            <h1 className="display-4 title">Memory Click Game</h1>
+            <h1 className="display-4 title">Mario Memory Click Game</h1>
             <p className="lead">
               Click on one of the images to earn a point. Don't click on the
               same character twice or you will lose!
             </p>
+            <h1>{this.state.message}</h1>
+            <h2>Score: {this.state.count}</h2>
           </div>
         </div>
         <div className="container">
